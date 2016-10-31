@@ -1,0 +1,1 @@
+﻿This is a Java project designed to help me pass the OCA Java Programmer I and II exams.
